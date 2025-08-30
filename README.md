@@ -29,3 +29,9 @@ A simple Android note-taking app with image attachments. Users can create, view,
 - Room Database.
 - MockK & Turbine for testing.
 - Coil for image loading
+
+## 📱 APK Download
+You can install the app directly using the signed debug APK:
+
+👉 [Download APK](https://www.mediafire.com/file/l66veeb23mw7jh9/SimpleNote.apk/file)
+
